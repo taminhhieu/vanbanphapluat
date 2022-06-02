@@ -1,0 +1,53 @@
+body .header-top {
+  background: #8e8997 none repeat scroll 0 0;
+  height: 30px; }
+  body .header-top .content-heder-top {
+    height: 100%;
+    margin: auto;
+    width: 1100px; }
+    body .header-top .content-heder-top a {
+      text-decoration: none;
+      border: medium none !important;
+      color: #fff;
+      float: right;
+      font-family: arial;
+      font-size: 13px;
+      padding-left: 15px;
+      padding-top: 6px !important; }
+      body .header-top .content-heder-top a i {
+        padding-right: 5px;
+        font-size: 15px; }
+
+body #banner {
+  background-image: url(https://vbpl.vn/VBQPPL_UserControls/Publishing_portal/Resources/imagesV2/bg-baner.png); }
+  body #banner #img-banner img {
+    display: block;
+    margin: 0 auto; }
+
+body #ctl00_g_6f1e0032_fad9_48f3_9065_a5efdbc95698 #content-menu-top {
+  background: rgba(0, 0, 0, 0) url(https://vbpl.vn/VBQPPL_UserControls/Publishing_portal/Resources/imagesV2/bg-menu-top.png) repeat-x scroll left top;
+  font: normal 10pt Arial, Helvetica, sans-serif; }
+  body #ctl00_g_6f1e0032_fad9_48f3_9065_a5efdbc95698 #content-menu-top #menu {
+    height: 37px;
+    margin: auto;
+    width: 1000px; }
+    body #ctl00_g_6f1e0032_fad9_48f3_9065_a5efdbc95698 #content-menu-top #menu ul {
+      float: left;
+      overflow: hidden;
+      width: 650px;
+      list-style: none;
+      margin: 0;
+      padding: 0; }
+      body #ctl00_g_6f1e0032_fad9_48f3_9065_a5efdbc95698 #content-menu-top #menu ul li {
+        float: left;
+        height: 25px;
+        margin-top: 13px;
+        text-transform: uppercase;
+        padding: 0; }
+        body #ctl00_g_6f1e0032_fad9_48f3_9065_a5efdbc95698 #content-menu-top #menu ul li a {
+          text-decoration: none;
+          background: rgba(0, 0, 0, 0) url(https://vbpl.vn/VBQPPL_UserControls/Publishing_portal/Resources/imagesV2/border-menu.png) repeat-y scroll left top;
+          color: #000;
+          font-size: 13px;
+          padding: 0px 15px 10px;
+          font-weight: bold; }
